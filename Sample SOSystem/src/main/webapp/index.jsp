@@ -8,8 +8,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-<h2>im kawaii<h2>
-
+im cute
 </body>
 </html>
